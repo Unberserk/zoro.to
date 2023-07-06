@@ -15,7 +15,7 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/home?source=pwa",
+  "start_url": "/Asta.to/home?source=pwa",
   "background_color": "#202125",
   "display": "standalone",
   "scope": "/",

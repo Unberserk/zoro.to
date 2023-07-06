@@ -3,13 +3,13 @@
   "name": "Asta.to",
   "icons": [
     {
-      "src": "https://Asta.to/images/touch-icon-192x192.png?v=0.1",
+      "src": "https://unberserk.github.io/Ahsta/images/touch-icon-192x192.png?v=0.1",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "https://Asta.to/images/touch-icon-512x512.png?v=0.1",
+      "src": "https://unberserk.github.io/Ahsta/images/touch-icon-512x512.png?v=0.1",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
